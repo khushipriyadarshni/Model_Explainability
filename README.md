@@ -6,7 +6,7 @@ An interactive, production-quality machine learning explainability dashboard bui
 
 ##  Live Demo
 
-**[ View Live Dashboard](https://modelexplainabilitydashboardwithshap-7jrq6izspvlqckjojzsmmt.streamlit.app/)**
+**[ View Live Dashboard](https://modelexplainability-khushipriyadarshni.streamlit.app/)**
 
 
 ---
